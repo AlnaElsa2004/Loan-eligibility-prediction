@@ -11,9 +11,6 @@ A Decision Tree is a supervised learning algorithm used for both classification 
 
 Naive Bayes is a probabilistic classifier based on Bayes' Theorem, assuming independence between predictors.
 
-## Why Python?
-
-Python is a popular programming language in Data Science due to its simplicity, readability, and extensive libraries.
 
 ## Python Libraries
 
@@ -43,7 +40,7 @@ To get started with the project, install the required libraries:
 
 ```sh
 pip install numpy pandas scikit-learn matplotlib
-
+```
 ## Contributing
 
 Contributions are welcome! Please create a pull request or open an issue to discuss any changes.
